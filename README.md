@@ -24,7 +24,7 @@ A powerful, type-safe expression tree library for Go that brings C#-style expres
 ### Installation
 
 ```bash
-go get github.com/yourusername/expr
+go https://github.com/raimialiu/expr.git
 ```
 
 ### Basic Usage
@@ -34,7 +34,7 @@ package main
 
 import (
   "fmt"
-  "github.com/yourusername/expr"
+  "github.com/raimialiu/expr.git"
 )
 
 func main() {
